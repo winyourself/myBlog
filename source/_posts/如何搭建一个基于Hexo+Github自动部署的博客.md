@@ -1,1 +1,1 @@
----title: 如何搭建一个Hexo+GitHub自动部署的博客---# 如何搭建一个Hexo+GitHub自动部署的博客## 在[hexo网站](https://hexo.io/themes/)上选择一个喜欢的主题
+---title: 如何搭建一个Hexo+GitHub自动部署的博客---## 如何搭建一个Hexo+GitHub自动部署的博客### 在[hexo网站](https://hexo.io/themes/)上选择一个喜欢的主题
