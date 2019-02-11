@@ -3,13 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: LIUJIN
-subtitle:
-description: 二师兄
-keywords:
-author: LiuJin
+title: Alvabill
+subtitle: Stay Hungry, Stay Foolish
+description: "Alvabill个人站，主要涉及前端知识共享、实践教程、前沿技术共同学习等方面"  #网站描述 SEO
+author: Alvabill
 language: zh-CN
-timezone:
+timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -27,6 +26,8 @@ category_dir: categories
 code_dir: downloads/code
 i18n_dir: :lang
 skip_render:
+  - README.md
+  - CNAME
 
 # Writing
 new_post_name: :title.md # File name of new posts
@@ -81,8 +82,5 @@ deploy:
   type: git
   repo: https://github.com/winyourself/winyourself.github.io.git
   branch: master
-avatar: 
-  url: /images/avatar.png
-  rounded: true
 Plugins:
 - hexo-generator-cname
