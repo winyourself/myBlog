@@ -81,6 +81,7 @@ deploy:
   type: git
   repo: https://github.com/winyourself/winyourself.github.io.git
   branch: master
-avatar: /uploads/avatar.png
+avatar: 
+  url: /images/avatar.png
 Plugins:
 - hexo-generator-cname
