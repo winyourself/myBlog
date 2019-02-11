@@ -83,5 +83,6 @@ deploy:
   branch: master
 avatar: 
   url: /images/avatar.png
+  rounded: true
 Plugins:
 - hexo-generator-cname
