@@ -3,10 +3,10 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Alvabill
+title: blockhead
 subtitle: Stay Hungry, Stay Foolish
-description: "Alvabill个人站，主要涉及后端知识共享、实践教程、前沿技术共同学习等方面"  #网站描述 SEO
-author: Alvabill
+description: "木头人个人站，主要涉及后端知识共享、实践教程、前沿技术共同学习等方面"  #网站描述 SEO
+author: blockhead
 language: zh-CN
 timezone: Asia/Shanghai
 
